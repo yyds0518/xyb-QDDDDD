@@ -685,5 +685,9 @@ async function run() {
   console.log(results.join("\n"));
   if (config.qmsgKey) {
     await sendMsg(results.join("\n"), config);
+  }else{
+    await sendMsg(results.join("\n"), config);
   }
+}
+
 run();
