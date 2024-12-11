@@ -2,10 +2,10 @@ const config = {
   mode: "in", // 签到:in,签退:out
   accounts: [
     {
-      username: "18764639145", //用户名
-      password: "mingli666", //密码
-      openId: "", //微信小程序抓包openid(可选)
-      unionId: "", //微信小程序抓包unionId(可选)
+      username: "19953880867", //用户名
+      password: "20051002yu", //密码
+      openId: "", //微信小程序抓包openid(ooru94myh1MLUE-T-Xi5rfzM0Pmg)
+      unionId: "", //微信小程序抓包unionId(oHY-uwYUF1hVcdgBur74MfeCtnAg)
       sign: true, //是否自动签到
       reSign: false, //是否重新签到
       location: "", //经纬度 (可选),例如 "120.210792,30.246026"、"经度,纬度",不填写则自动获取（推荐）
